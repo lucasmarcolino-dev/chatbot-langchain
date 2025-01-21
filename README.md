@@ -13,7 +13,7 @@ Este projeto utiliza a técnica de **Retrieval-Augmented Generation (RAG)** para
 
 Antes de começar, certifique-se de ter as seguintes dependências instaladas:
 
-- Python 3.8+
+- Python 3.9+
 - Streamlit
 - langchain_community
 - langchain_google_genai
