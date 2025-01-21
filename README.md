@@ -44,7 +44,7 @@ Antes de começar, certifique-se de ter as seguintes dependências instaladas:
    streamlit run main.py
    ```
 
-2. Acesse a aplicação no navegador pelo endereço exibido no terminal (geralmente `http://localhost:8080`).
+2. Acesse a aplicação no navegador pelo endereço exibido no terminal (geralmente `http://localhost:8501`).
 
 3. Digite sua pergunta no campo de texto e obtenha respostas claras e objetivas relacionadas à Lucas Tech.
 
